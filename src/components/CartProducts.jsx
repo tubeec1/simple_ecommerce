@@ -28,7 +28,7 @@ export default function CartProducts() {
           </table>
           <div className="total">
             <h2>Total Price</h2>
-            <p>{total}</p>
+            <p>${total}</p>
           </div>
         </div>
       )}
